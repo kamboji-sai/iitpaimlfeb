@@ -1,0 +1,67 @@
+- Python is installed in our system
+
+- Lokesh Reddy 
+2 + 3 = 5 
+5 * 2 = 10
+10 + 3 = 13
+13 * 273982992 = ..
+
+Brain: Saving the numbers , Computation
+
+Computers: RAM + CPU
+Programming lang: java, javascript, c++, c, python, go ..
+
+Laptop: 16 GB, 512GB, M2 pro
+How to write ?
+
+Program: set of instructions 
+
+Variables : Containers to store the data.
+Variables : names 
+
+Python: 
+1. A variable can only start with alphabet or underscore (_) => a-z, A-Z, _
+2. A variable can only contain alphabets, numerics and underscores. => 0-9
+3. A variable must not be a reserved keyword in python.
+
+Examples: abc , abc12, _user_name, username$ 
+
+
+- We can put some data inside a variable ny using assignment operator (=)
+- A variable/identifier can only hold one value at a time.
+
+- Every statment/instruction in python should always occupy a single line.
+- Indentation , a group of statements should alway have the same indentation.
+
+
+Data:
+Name, numbers, user (name, hostel, cgpa, branch ... )
+
+Data Types (Fundamental data types): 
+integers: whole numbers (+ve, -ve, 0) => without decimal point.
+          Ex: 10, 12, 293020, -38392, -1, 0 ....
+            18.9, 9.0
+          - Infinite possible value for integer data type.
+Float: numbers with decimal point.
+        ex: 12.5, 8.0, -9.12 ....
+            2, 4, 5
+        - Infinite possible values.
+boolean: Yes/No
+        ex: True, False
+            99
+        - Two possible values.
+string: Anything written inside single/double quotes is a string. 
+        ex: "129", "Aravind", 'abc'
+        - Infinite possible values.
+
+- Comments in python. => sticky notes
+
+Single line comments & multi line comments: 
+# Write your comment...
+
+Multi line comments: 
+""" Comment .... """
+''' Comment ... '''
+
+
+
